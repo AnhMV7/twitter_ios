@@ -19,5 +19,5 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/YTzUMssqPs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/h6I1Y9iLas.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
